@@ -8,5 +8,7 @@ public class AccessingDataRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AccessingDataRestApplication.class, args);
+		System.out.println("Application complete");
+		
 	}
 }
